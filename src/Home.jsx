@@ -13,7 +13,7 @@ function Home() {
                         
                             <div className="login__field">
                                 <i className="login__icon fas fa-user"></i>
-                                <input type="text" className="login__input" placeholder="Enter YourEmail" />
+                                <input type="text" className="login__input" placeholder="Enter Your Email" />
                             </div>
                             <div className="login__field">
                                 <i className="login__icon fas fa-lock"></i>
